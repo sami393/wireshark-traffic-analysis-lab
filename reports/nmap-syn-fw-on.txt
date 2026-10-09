@@ -1,0 +1,8 @@
+# Nmap 7.99 scan initiated Fri Oct  9 17:11:38 2026 as: /usr/lib/nmap/nmap -sS -p 1-1000 -T4 -oN nmap-syn-fw-on.txt 192.168.170.144
+Nmap scan report for 192.168.170.144
+Host is up (0.00093s latency).
+All 1000 scanned ports on 192.168.170.144 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:0C:29:0C:FC:03 (VMware)
+
+# Nmap done at Fri Oct  9 17:12:05 2026 -- 1 IP address (1 host up) scanned in 27.73 seconds

@@ -1,0 +1,11 @@
+# Nmap 7.99 scan initiated Fri Oct  9 15:58:01 2026 as: /usr/lib/nmap/nmap -sS -p 1-1000 -T4 -oN nmap-syn-fw-off.txt 192.168.170.144
+Nmap scan report for 192.168.170.144
+Host is up (0.0022s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 00:0C:29:0C:FC:03 (VMware)
+
+# Nmap done at Fri Oct  9 15:58:08 2026 -- 1 IP address (1 host up) scanned in 6.50 seconds
